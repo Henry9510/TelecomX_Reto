@@ -19,9 +19,15 @@ Generar conclusiones y recomendaciones basadas en evidencia
 🧠 Actividades Realizadas
 
 ✔️ Extracción y carga de datos en formato JSON
+
 ✔️ Normalización y estructuración de los datos
+
 ✔️ Limpieza de datos (valores nulos, duplicados y errores)
+
 ✔️ Transformación de variables para análisis
+
 ✔️ Visualización de datos con Plotly, Matplotlib y Seaborn
+
 ✔️ Análisis descriptivo y correlacional
+
 ✔️ Generación de insights y recomendaciones estratégicas
