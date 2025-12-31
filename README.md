@@ -26,7 +26,7 @@ Generar conclusiones y recomendaciones basadas en evidencia
 
 ✔️ Transformación de variables para análisis
 
-✔️ Visualización de datos con Plotly, Matplotlib y Seaborn
+✔️ Visualización de datos con Plotly
 
 ✔️ Análisis descriptivo y correlacional
 
